@@ -2,6 +2,7 @@
 function printIndexes(array) {
   // Проходимося по всіх індексах масиву
   // Виводимо кожен індекс на консоль
+  for (const index of printIndexes)
 }
 
 console.log("Завдання 1 ====================================");
